@@ -821,7 +821,7 @@
                                     <span class="p-3 bg-primary-50 text-primary-600 rounded-xl"><i class="fa-solid fa-phone text-lg"></i></span>
                                     <div>
                                         <h4 class="font-bold text-slate-900 text-sm">تلفن پشتیبانی و مشاوره</h4>
-                                        <p class="text-slate-500 text-xs mt-1" dir="ltr">۰۲۱-۹۱۰۰XXXX (خط ویژه)</p>
+                                        <p class="text-slate-500 text-xs mt-1" dir="ltr">۰۵۱۳-۹۱۰۰XXXX (خط ویژه)</p>
                                         <p class="text-[10px] text-slate-400 mt-0.5">پاسخگویی شبانه‌روزی حتی در روزهای تعطیل</p>
                                     </div>
                                 </div>
@@ -839,7 +839,7 @@
                                     <span class="p-3 bg-primary-50 text-primary-600 rounded-xl"><i class="fa-solid fa-location-dot text-lg"></i></span>
                                     <div>
                                         <h4 class="font-bold text-slate-900 text-sm">دفتر مرکزی</h4>
-                                        <p class="text-slate-500 text-xs mt-1 leading-relaxed">تهران، میدان ونک، پارک فناوری‌های مالی، طبقه ۴، واحد ۴۰۲</p>
+                                        <p class="text-slate-500 text-xs mt-1 leading-relaxed"> مشهد</p>
                                     </div>
                                 </div>
                             </div>
@@ -874,7 +874,7 @@
                                     <!-- Phone -->
                                     <div class="space-y-1">
                                         <label class="block text-xs font-bold text-slate-600">شماره تماس <span class="text-rose-500">*</span></label>
-                                        <input type="tel" x-model="contactPhone" required placeholder="۰۹۱۲۳۴۵۶۷۸۹" class="w-full px-4 py-3 bg-slate-50 border border-slate-200 rounded-xl text-slate-800 text-sm focus:outline-none focus:border-primary-500 focus:bg-white transition-all text-left font-bold" dir="ltr">
+                                        <input type="tel" x-model="contactPhone" required placeholder="۰۹۱۵۳۴۵۶۷۸۹" class="w-full px-4 py-3 bg-slate-50 border border-slate-200 rounded-xl text-slate-800 text-sm focus:outline-none focus:border-primary-500 focus:bg-white transition-all text-left font-bold" dir="ltr">
                                     </div>
                                 </div>
 
@@ -947,7 +947,7 @@
                             <label class="block text-xs font-bold text-slate-600">شماره موبایل (باید به نام خودتان باشد):</label>
                             <div class="relative">
                                 <span class="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400"><i class="fa-solid fa-mobile-screen-button"></i></span>
-                                <input type="tel" x-model="regPhone" placeholder="۰۹۱۲۳۴۵۶۷۸۹" class="w-full pl-3 pr-10 py-3 bg-slate-50 border border-slate-200 rounded-xl text-slate-800 text-sm focus:outline-none focus:border-primary-500 focus:bg-white transition-all text-left font-bold" dir="ltr">
+                                <input type="tel" x-model="regPhone" placeholder="۰۹۱۵۳۴۵۶۷۸۹" class="w-full pl-3 pr-10 py-3 bg-slate-50 border border-slate-200 rounded-xl text-slate-800 text-sm focus:outline-none focus:border-primary-500 focus:bg-white transition-all text-left font-bold" dir="ltr">
                             </div>
                         </div>
 
@@ -1215,7 +1215,7 @@
                 <!-- Contact Info -->
                 <div>
                     <h5 class="text-white text-xs font-black mb-4">ارتباط با ما</h5>
-                    <p class="text-xs leading-relaxed text-slate-500">تهران، میدان ونک، پارک فناوری‌های مالی، طبقه ۴، واحد ۴۰۲</p>
+                    {{-- <p class="text-xs leading-relaxed text-slate-500">تهران، میدان ونک، پارک فناوری‌های مالی، طبقه ۴، واحد ۴۰۲</p> --}}
                     <div class="flex gap-4 mt-4 text-slate-500">
                         <a href="#" class="hover:text-white"><i class="fa-brands fa-instagram text-base"></i></a>
                         <a href="#" class="hover:text-white"><i class="fa-brands fa-linkedin text-base"></i></a>
