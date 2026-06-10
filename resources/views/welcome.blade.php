@@ -447,7 +447,7 @@
 
                                 <h3 class="text-lg font-bold text-slate-900 mb-6 flex items-center gap-2">
                                     <i class="fa-solid fa-calculator text-primary-500"></i>
-                                    <span>شبیه‌ساز هوشمند اقساط BNPL</span>
+                                    <span>شبیه‌ساز هوشمند اقساط</span>
                                 </h3>
 
                                 <div class="space-y-6">
@@ -550,7 +550,7 @@
                     <div class="flex flex-col sm:flex-row justify-between items-center mb-12 gap-4">
                         <div class="text-right">
                             <h2 class="text-2xl font-extrabold text-slate-900">محصولات ویژه با پیش‌پرداخت صفر درصد</h2>
-                            <p class="text-slate-500 text-xs mt-1">همین حالا انتخاب کنید و با اعتبار BNPL خود سفارش دهید.</p>
+                            <p class="text-slate-500 text-xs mt-1">همین حالا انتخاب کنید و با اعتبار خود سفارش دهید.</p>
                         </div>
                         <button @click="setPage('product')" class="text-primary-600 hover:text-primary-700 font-bold text-xs flex items-center gap-1 bg-white px-4 py-2 rounded-xl border border-slate-200">
                             مشاهده تمام کالاها <i class="fa-solid fa-chevron-left text-[10px]"></i>
@@ -711,7 +711,7 @@
 
                             <!-- Installment Roadmap / Visual representation of payments -->
                             <div class="border-t border-slate-200/60 pt-4 space-y-3">
-                                <span class="text-xs font-bold text-slate-500 block">برنامه پرداخت‌های شما در سیستم BNPL:</span>
+                                <span class="text-xs font-bold text-slate-500 block">برنامه پرداخت‌های شما در سیستم :</span>
                                 <div class="grid grid-cols-2 sm:grid-cols-4 gap-2">
                                     <div class="bg-white p-3 rounded-xl border border-slate-100">
                                         <div class="text-[9px] font-bold text-slate-400">قسط اول (همین امروز)</div>
@@ -1132,7 +1132,7 @@
                     <!-- Complete Order Simulator Button -->
                     <button @click="processCheckout()" class="w-full py-4 bg-primary-600 hover:bg-primary-700 text-white font-bold rounded-xl text-sm shadow-md shadow-primary-500/10 flex items-center justify-center gap-2">
                         <i class="fa-solid fa-shield-check"></i>
-                        <span>ثبت نهایی سفارش اعتباری (BNPL)</span>
+                        <span>ثبت نهایی سفارش اعتباری</span>
                     </button>
                 </div>
             </template>
