@@ -38,6 +38,8 @@ npm install
 
 composer require laravel/boost --dev
 
+composer run dev(for starting project)
+
 php artisan boost:install (not necessary)
 
 ```
